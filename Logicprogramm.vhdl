@@ -7,7 +7,7 @@ USE IEEE.std_logic_1164.all
 ENTITY io_1 IS
   Port (
       el, e2 : IN STD_LOGIC;
-      eing   : IN STD_LOGIC_VECTOR (1 downto 0)
+      eing   : IN STD_LOGIC_VECTOR (1 downto 0);
       al, a2 : OUT STD_LOGIC;
 END
 ------------------------------------------------
