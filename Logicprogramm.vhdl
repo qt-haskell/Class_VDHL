@@ -1,4 +1,4 @@
--- Author: nezha
+-- Author: Lia Marie Thaila
 -- Date: 15.1.2021
 
 LIBRARY IEEE;
@@ -11,7 +11,7 @@ ENTITY io_1 IS
       al, a2 : OUT STD_LOGIC;
 END
 ------------------------------------------------
--- Author: nezha
+-- Author: Lia Marie Thaila
 -- Truetable: io_1
 ARCHITECTURE behaviour OF io_1 IS
 BEGIN
